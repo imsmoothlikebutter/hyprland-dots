@@ -5,8 +5,8 @@
 # Read `man 5 sway` for a complete reference.
 
 font pango: FantasqueSansM Nerd Font 12
-gaps inner 5px
-gaps outer 5px
+gaps inner 8px
+gaps outer 8px
 
 default_border pixel 2 # disable window titlebar
 
@@ -14,7 +14,7 @@ default_border pixel 2 # disable window titlebar
 #
 # Logo key. Use Mod1 for Alt.
 # Mod4 is for Windows Key
-set $mod Mod4
+set $mod Mod1
 # Home row direction keys, like vim
 set $left h
 set $down j

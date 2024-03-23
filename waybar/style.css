@@ -1,6 +1,6 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
-    font-family: "FantasqueSansM Nerd";
+    font-family: "FantasqueSansM Nerd", monospace;
     font-size: 15px;
     border-radius: 10px;
 }
